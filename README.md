@@ -21,8 +21,10 @@ their tickets.
 ### Use Case Diagram:
 ![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/9a68a462-7887-4f82-88d3-6cda5b0d282f)
 
-### Activity Diagram:
+### Class Diagram:
 ![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/9bd2d6ca-fdee-4c07-b985-e97bd413e2a1)
+### Activity Diagram:
+![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/cfb71ed7-78ad-4427-9b04-4d275409a816)
 
 ### Package Diagram:
 ![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/a2f8e4fd-56cd-43cd-a74b-8c09a5d16cb4)
